@@ -2,6 +2,9 @@ package trial;
 
 public class Methods {
 	public static void main(String[] args) {
+		
+		System.out.println("Hello");
+		System.out.println("hi");
 		/*
 		 * String name1="Nisha"; String name2="Nisha";
 		 * System.out.println("Litreal string");
